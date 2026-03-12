@@ -1,0 +1,24 @@
+{
+  "name": "floral_design",
+  "version": "1.0.0",
+  "description": "design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoMinhDuc1311/floral_design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VoMinhDuc1311/floral_design/issues"
+  },
+  "homepage": "https://github.com/VoMinhDuc1311/floral_design#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
